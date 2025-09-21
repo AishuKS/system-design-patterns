@@ -10,7 +10,7 @@ class StrictPaymentProcessor:
         print("Processing", amount)
 
 strictpayment = StrictPaymentProcessor()
-strictpayment.process(5)
+strictpayment.process(5)   
 
 #with LSP
 class PaymentProcessor:
